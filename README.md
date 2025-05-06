@@ -22,5 +22,9 @@ BYPASS ANTIVIRUS SCAN
 
  Dm - https://t.me/SamDevExe
 
+https://github.com/user-attachments/assets/1206388c-983f-42f5-8a67-3b2287e913e4
 
-![Image](https://github.com/user-attachments/assets/81b40094-36a4-462b-a004-62028da2629b)
+
+
+
+
