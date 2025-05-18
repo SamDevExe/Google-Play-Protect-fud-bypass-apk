@@ -16,7 +16,7 @@ Advanced Android Remote Control Technology — Live screen, camera access, keylo
 Custom Websites — Professionally designed to spread your payloads seamlessly — built for maximum installs!
 
 
-BYPASS GOOGLE PLAY PROTECT - FUD DEMO SCAN
+# BYPASS GOOGLE PLAY PROTECT - FUD DEMO SCAN
 
 ![image alt](https://github.com/SamDevExe/Google-Play-Protect-fud-bypass-apk/blob/b811e52a5dd547a884c9d47692424eb32a705b4b/Google%20play%20protect%20bypass.PNG)
 
@@ -27,7 +27,7 @@ BYPASS ANTIVIRUS SCAN
 
 https://github.com/user-attachments/assets/1206388c-983f-42f5-8a67-3b2287e913e4
 
-HOW IT WORKS 
+# HOW IT WORKS 
 
 Our tool processes your APK on the client side during installation, giving each install a unique signature. This helps your app fly under the radar of security scans, including Google Play Protect, while reducing server load. By using public APIs to dynamically load code and resources at runtime, it bypasses static analysis and runs smoothly on most modern Android devices
 
